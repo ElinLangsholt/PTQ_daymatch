@@ -11,7 +11,7 @@ Now, dayly data are no longer necessarily restricter to these rigid time frames.
 
 <b>Part 2:</b> The HBV-model is calibrated and run on the different data sets
 
-<i>4 differen data sets are included in the test:</i>
+<i>4 different data sets are included in the test:</i>
 
 <b>1)</b> PT: 07-07, Q: 00-00 (traditional)
 
