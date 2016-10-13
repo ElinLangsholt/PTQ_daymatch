@@ -7,15 +7,15 @@ Now, dayly data are no longer necessarily restricter to these rigid time frames.
 
 <b>Part 1:</b> The HBV-model, calibrated on traditional data, is run on the different data sets
 
-Part 2: The HBV-model is calibrated and run on the different data sets
+<b>Part 2:</b> The HBV-model is calibrated and run on the different data sets
 
 4 differen data sets are included in the test:
 
-1) PT: 07-07, Q: 00-00 (traditional)
+<b>1)</b> PT: 07-07, Q: 00-00 (traditional)
 
-2) PT: 07-07 (the next day), Q: 00-00 (traditional with the weather 1 day delayed)
+<b>2)</b> PT: 07-07 (the next day), Q: 00-00 (traditional with the weather 1 day delayed)
 
-3) PTQ: 00-00 (using disaggregated weather data)
+<b>3)</b> PTQ: 00-00 (using disaggregated weather data)
 
-4) PTQ; 07-07 (using fine scale stream flow data)
+<b>4)</b> PTQ; 07-07 (using fine scale stream flow data)
 
