@@ -6,18 +6,12 @@ Traditionally at NVE, 24h hydrological models are driven by input data based on 
 Now, dayly data are no longer necessarily restricter to these rigid time frames. The meteorological synoptic 24h data now exist in a 3 hourly version, disaggregated according to the pattern given by model hindcasts. These diaggregated time series cover the years 1958-2012 + 2015- (?). Thus, the meteorological 24h day can be redifined by reaggregating the 3h data to cover the 00-00 day. Alternatively, it is possible to redefine the stream flow day by aggregating fine scale data according to an arbitrary day definition. Fine scale stream flow data don't cover a very long time period. It was found that 127 out of the 145 flood forcasting stations have fine scale data from 1994, and 1994-2014 was chosen as the test period used here. Disaggregated met data are missing from 2012-2014. Traditional data are filled in for these two years in the corresponding data set. A test is set up to see whether the model performance (as shown by the HBV-model ) differs according to weather and stream flow 24h day definitions.
 
 <i>The test has two main parts:</i>
-
-<b>Part 1:</b> The HBV-model, calibrated on traditional data, is run on the different data sets
-
-<b>Part 2:</b> The HBV-model is calibrated and run on the different data sets
+</BR><b>Part 1:</b> The HBV-model, calibrated on traditional data, is run on the different data sets
+</BR><b>Part 2:</b> The HBV-model is calibrated and run on the different data sets
 
 <i>4 different data sets are included in the test:</i>
-
-<b>1)</b> PT: 07-07, Q: 00-00 (traditional)
-
-<b>2)</b> PT: 07-07 (the next day), Q: 00-00 (traditional with the weather 1 day delayed)
-
-<b>3)</b> PTQ: 00-00 (using disaggregated weather data)
-
-<b>4)</b> PTQ; 07-07 (using fine scale stream flow data)
+</BR><b>1)</b> PT: 07-07, Q: 00-00 (traditional)
+</BR><b>2)</b> PT: 07-07 (the next day), Q: 00-00 (traditional with the weather 1 day delayed)
+</BR><b>3)</b> PTQ: 00-00 (using disaggregated weather data)
+</BR><b>4)</b> PTQ; 07-07 (using fine scale stream flow data)
 
